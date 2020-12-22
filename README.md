@@ -213,7 +213,7 @@ You are asked to accomplish the following main tasks:
 
 ### Files
 
-* [crypto_clustering.ipynb](Starter_Files/crypto_clustering.ipynb)
+* [crypto_clustering_solutions_file.ipynb](Crypto_Clustering/crypto_clustering_solutions_file.ipynb)
 
 ---
 
