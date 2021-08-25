@@ -159,17 +159,6 @@ After successfully testing your code, open the Amazon Lex Console and navigate t
 
 ![Robo Advisor test with Lambda](Images/bot-test-with-lambda.gif)
 
-### Submission
-
-You should create a brand new repository in GitHub and upload the following files to your repo.
-
-* A python script with your final lambda function.
-
-* From the Amazon Lex Console, export your bot, intent, and slot using `Amazon Lex` as the target platform, and upload the ZIP files to your repo.
-
-* Create a short video or animated GIF showing a demo of your Robo Advisor in action from the test window. Upload the video or animated GIF file to your repo.
-
-Once you have uploaded all the files into the repo, post a link to your homework's repository in BootCamp Spot.
 
 ### Hints
 
